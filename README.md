@@ -7,7 +7,7 @@ The refactoring of this existing website was done to make it more accessible.
 ## Installation
 
 Project as a repository on Github: https://github.com/renrojas/Horiseon
-Project deployed in GitHub:
+Project deployed in GitHub: https://renrojas.github.io/Horiseon/
 
 ## Usage
 
